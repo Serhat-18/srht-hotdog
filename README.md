@@ -8,4 +8,4 @@ Gereksinimler İçindedir
 Discordumuza Katılarak Destek Olabilirsiniz
 
 
-discord.gg/ctYuj4TApQ
+https://discord.gg/jmqkY55Ynw

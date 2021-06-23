@@ -1,0 +1,159 @@
+body {
+    background-color: transparent !important;
+}
+
+.template, .notification {
+    display: none;
+}
+
+.notif-container {
+    width: 20%;
+    position: absolute;
+    right: 15%;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+.notification {
+    padding: 10px;
+    width: fit-content;
+    border-radius: 5px;
+    margin: 5px;
+    font: caption;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.success {
+    background: rgb(25,203,0);
+background: linear-gradient(45deg, rgba(25,203,0,1) 0%, rgba(31,255,0,1) 100%);
+color: #fff;
+}
+
+.inform {
+    background: rgb(0,125,255);
+background: linear-gradient(90deg, rgba(0,125,255,1) 0%, rgba(0,194,255,1) 100%);
+color: #fff;
+}
+
+.error {
+    background: rgb(163,14,1);
+background: linear-gradient(45deg, rgba(163,14,1,1) 0%, rgba(255,21,0,1) 100%);
+color: #fff;
+}
+
+
+.cajaroja{
+    background-color: rgb(151, 74, 65);
+    color: #ffffff;
+opacity:0.95;
+}
+
+
+
+.cajavioleta{
+    background-color: rgb(165, 86, 178);
+    color: #ffffff;
+opacity:0.95;
+}
+
+.cajaverde{
+    background-color: rgb(67, 176, 55);
+    color: #ffffff;
+opacity:0.95;
+}
+
+.cajanegra {
+background: rgb(78,78,78);
+background: linear-gradient(353deg, rgba(78,78,78,1) 0%, rgba(60,65,70,1) 70%, rgba(51,63,73,1) 100%, rgba(0,212,255,1) 100%);
+    color: #fff;
+opacity:0.95;
+}
+
+.cajaploma {
+background-image: linear-gradient(to left, #BDBBBE 0%, #9D9EA3 100%), radial-gradient(88% 271%, rgba(255, 255, 255, 0.25) 0%, rgba(254, 254, 254, 0.25) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradient(50% 100%, rgba(255, 255, 255, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%);
+ background-blend-mode: normal, lighten, soft-light;
+    color: #fff;
+opacity:0.90;
+}
+
+
+.cajaceleste {
+background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
+    color: #fff;
+opacity:0.95;
+}
+
+.cajaroja2 {
+background: linear-gradient(to bottom, #ff5050 0%, #800000 100%);
+    color: #fff;
+opacity:0.95;
+}
+
+
+
+.cajamostaza {
+    background: rgb(149,77, 54);
+    color: #fff;
+opacity:0.95;
+}
+
+
+.cajaazul {
+background: rgb(52,101,140);
+color: #fcfcfc;
+opacity:0.95;
+}
+.cajaroja3{
+background: linear-gradient(to right top, #d50000, #bb0205, #a20408, #890608, #710707);
+color: #fff;
+opacity:0.95;
+}
+
+
+.cajamorada {
+background: rgb(108,2,252);
+color: #fcfcfc;
+opacity:0.95;
+}
+
+.cajaamarilla {
+background: rgb(226,171,3);
+color: #fcfcfc;
+opacity:0.95;
+}
+
+
+
+.noereseljobquenecesita {
+    background: rgb(168,49, 54);
+    color: #fff;
+opacity:0.95;
+}
+.notificacionpolicia {
+background: rgb(9,66,98);
+background: linear-gradient(353deg, rgba(9,66,98,1) 0%, rgba(42,90,136,1) 48%, rgba(26,104,173,1) 100%, rgba(51,63,73,1) 100%);
+    color: #fff;
+opacity:0.85;
+}
+
+.nohayjugadorescerca {
+    background: rgb(149,77, 54);
+    color: #fff;
+opacity:0.95;
+}
+
+.recolecciondeitems {
+background: rgb(78,78,78);
+background: linear-gradient(353deg, rgba(78,78,78,1) 0%, rgba(60,65,70,1) 70%, rgba(51,63,73,1) 100%, rgba(0,212,255,1) 100%);
+    color: #fff;
+opacity:0.95;
+}
+
+
+.cajanaranja {
+background: rgb(239, 96, 29);
+color: #fcfcfc;
+opacity:0.95;
+}
